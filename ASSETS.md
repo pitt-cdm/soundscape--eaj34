@@ -1,8 +1,28 @@
 Sounds Needed and Where to Get Them
 
-Alarm Clock - Phone Alarm App
-Notification Pings - Phone
-Street Noise - Forbes 
-Coffee Shop Chatter - Starbucks or Dunkin
-Woman in Soundscape - Myself
-Rain - Online source
+
+Background Music - online source*
+
+Alarm Clock - online source*
+
+Button Click - online source*
+
+Cereal - poured cereal into mug
+
+Brush teeth - Brushed my own teeth
+
+Heels walking - online source*
+
+Car Door Open/Staring Up - My own car
+
+Conversation - My friends and I
+
+Typing - My computer
+
+Office Phone - Friend's phone 
+
+Notifiation Ping - Friend's Phone
+
+Shovel Hit - online source*
+
+* online sources citation can be found in SOURCES.md
